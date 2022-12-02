@@ -1,5 +1,4 @@
 # Sanxia
 Because it is big!
 
-Hi, how are you?
-I'm fine,thank you,and you?
+This is a test for a new branch of Sanxia resporsitory.
